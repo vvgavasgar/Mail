@@ -33,6 +33,7 @@ public class TestMail {
 	        
 	    } catch(Exception exc) {
 	        System.out.println(exc + " error");
+	        System.out.println("Github created");
 	    }
 	}
 }
